@@ -28,3 +28,10 @@ Get the highest score  & have fun 😊
 
 ![Start Menu](https://media.discordapp.net/attachments/921071146080821269/986950018873319474/Screenshot_2022-06-16_130557.jpg?width=974&height=701)
 
+## 🤓 Contributors
+
+<a href="https://github.com/moha-b"><img align="left" src="https://user-images.githubusercontent.com/73842931/203227568-87586057-ca54-404c-bf8c-907a00127279.png"  height="75"></a>
+
+
+<a href="https://github.com/AndriaSalah"><img align="left" src="https://user-images.githubusercontent.com/73842931/203227563-740a22ba-468b-41b0-ac05-a6265ce5b55e.png"  height="75"></a>
+
